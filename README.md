@@ -1,7 +1,7 @@
 
-## My name is Irina Volkhonskaya
+### My name is *Irina Volkhonskaya*
 
-## I'm a *react developer* from Kiev
+### I'm a *react developer* from Kiev
 <!--
 **IrinaVolkhonskaya/IrinaVolkhonskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
