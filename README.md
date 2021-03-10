@@ -1,7 +1,7 @@
 
 ### My name is *Irina Volkhonskaya*
 
-### I'm a *react developer* from Kiev
+### I'm a *react developer*
 
 ### Languages and Technologies
 
