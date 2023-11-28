@@ -12,6 +12,7 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![NEXTJS](https://img.shields.io/badge/NEXTJS)
 
 ### Mail me: irina.volhonskaya@gmail.com
 
